@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ##
-- 🔭 I’m currently working on ... Image Analysis.
+- 🔭 I've just finished an Image Analysis project - Blood Cell Analysis.
+- Next I'll be tackling a mapping/travel app. 
 
 <!--
 **MichaelMcKibbin/MichaelMcKibbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
