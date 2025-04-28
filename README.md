@@ -3,7 +3,8 @@
 ##
 - 🔭 I've just finished an Image Analysis project - Blood Cell Analysis.
 - Next I'll be tackling a mapping/travel app. 
-:smile:
+:_{smile}:
+
 
 <!--
 **MichaelMcKibbin/MichaelMcKibbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
