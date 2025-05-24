@@ -10,7 +10,7 @@
 ## 🚀 Featured Projects
 **Travel/Mapping App - Vienna U-Bahn**
 
-[ViennaUBahn](https://github.com/MichaelMcKibbin/ViennaUBahn)
+Repo: [ViennaUBahn](https://github.com/MichaelMcKibbin/ViennaUBahn)
   - An application to plan and display a trip on the Vienna U-Bahn underground network
   - Built with Java & JavaFX
   - Demonstrates the differences in various search algorithms some of which generate multiple possible routes.
@@ -22,10 +22,11 @@
   - Weighting based on cost, time, & distance
   - Colour coded route map and route stations list
   - Various metrics calculated including calculated distance between stations & euclidian distance, travel time, & processing time.
-  - 
-  - 
+    
+    
 **Blood Cell Analysis**
-[ImageAnalysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
+
+Repo: [ImageAnalysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
 - An application for analyzing microscope images to detect and count blood cells using computer vision techniques.
 - Built with Java & JavaFX
 - Uses Union-Find algorithm
