@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-## About Me
-- 🚋 Recent Project: Journey Planner - Vienna U-Bahn
-- 🔬 Recent Project: Image Analysis project - Blood Cell Analysis
+## Recent Activity
 - 🔭 Next Project: ??? 🌐
-
-
+- 🚋 Recent Project: Journey Planner - [Vienna U-Bahn](https://github.com/MichaelMcKibbin/ViennaUBahn)
+- 🔬 Recent Project: Image Analysis - [Blood Cell Analysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
+- 💍 Recent Project: Inventory Tracker - [Jewellery Store](https://github.com/MichaelMcKibbin/JS1)
 
 
 ## 🚀 Featured Projects
@@ -28,14 +27,16 @@
 [ImageAnalysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
 - An application for analyzing microscope images to detect and count blood cells using computer vision techniques.
 - Built with Java & JavaFX
-- Uses Union-Find algorithm for cell identification
+- Uses Union-Find algorithm
+- Identifies cells by colour, shape, & size
 - Implements custom image processing filters
 
-## Upcoming
 
 
-<br>
-<br>
+## 📫 Connect
+<!-- Add your professional social links here -->
+https://www.linkedin.com/in/michaelkevinmckibbin/
+
 
 ## 💼 Some Technical Skills
 
@@ -266,9 +267,6 @@
 - 🌍 Network Protocols
 -->
 
-## 📫 Connect With Me
-<!-- Add your professional social links here -->
-https://www.linkedin.com/in/michaelkevinmckibbin/
 
 
 
