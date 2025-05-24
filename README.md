@@ -9,6 +9,7 @@
 
 ## 🚀 Featured Projects
 **Travel/Mapping App - Vienna U-Bahn**
+
 [ViennaUBahn](https://github.com/MichaelMcKibbin/ViennaUBahn)
   - An application to plan and display a trip on the Vienna U-Bahn underground network
   - Built with Java & JavaFX
