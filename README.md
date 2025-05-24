@@ -6,7 +6,7 @@
 - 🔬 Recent Project: Image Analysis - [Blood Cell Analysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
 - 💍 Recent Project: Inventory Tracker - [Jewellery Store](https://github.com/MichaelMcKibbin/JS1)
 
-
+---
 ## 🚀 Featured Projects
 **Travel/Mapping App - Vienna U-Bahn**
 
@@ -23,7 +23,7 @@ Repo: [ViennaUBahn](https://github.com/MichaelMcKibbin/ViennaUBahn)
   - Colour coded route map and route stations list
   - Various metrics calculated including calculated distance between stations & euclidian distance, travel time, & processing time.
     
-    
+---
 **Blood Cell Analysis**
 
 Repo: [ImageAnalysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
@@ -34,12 +34,12 @@ Repo: [ImageAnalysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
 - Implements custom image processing filters
 
 
-
+---
 ## 📫 Connect
 <!-- Add your professional social links here -->
 https://www.linkedin.com/in/michaelkevinmckibbin/
 
-
+---
 ## 💼 Some Technical Skills
 
 ### 🔧 Languages & Tools
