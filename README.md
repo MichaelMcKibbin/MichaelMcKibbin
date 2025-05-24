@@ -2,9 +2,9 @@
 
 ## Recent Activity
 - 🔭 Next Project: ??? 🌐
-- 🚋 Recent Project: Journey Planner - [Vienna U-Bahn](https://github.com/MichaelMcKibbin/ViennaUBahn)
-- 🔬 Recent Project: Image Analysis - [Blood Cell Analysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
-- 💍 Recent Project: Inventory Tracker - [Jewellery Store](https://github.com/MichaelMcKibbin/JS1)
+- 🚋 Journey Planner - [Vienna U-Bahn](https://github.com/MichaelMcKibbin/ViennaUBahn)
+- 🔬 Image Analysis - [Blood Cell Analysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
+- 💍 Inventory Tracker - [Jewellery Store](https://github.com/MichaelMcKibbin/JS1)
 
 ---
 ## 🚀 Featured Projects
