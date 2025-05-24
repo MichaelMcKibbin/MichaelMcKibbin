@@ -1,16 +1,18 @@
 ### Hi there 👋
 
 ## About Me
-- 🔬 Latest Project: Image Analysis project - Blood Cell Analysis
-- 🔭 Next Project: Mapping/Travel App 🌐
+- 🚋 Recent Project: Journey Planner - Vienna U-Bahn
+- 🔬 Recent Project: Image Analysis project - Blood Cell Analysis
+- 🔭 Next Project: ??? 🌐
 
 
 
 
 ## 🚀 Featured Projects
 **Travel/Mapping App - Vienna U-Bahn**
-[Title](https://github.com/MichaelMcKibbin/ViennaUBahn)
+[ViennaUBahn](https://github.com/MichaelMcKibbin/ViennaUBahn)
   - An application to plan and display a trip on the Vienna U-Bahn underground network
+  - Built with Java & JavaFX
   - Demonstrates the differences in various search algorithms some of which generate multiple possible routes.
   - BFS: Breadth First Search
   - DFS: Depth First Search - Iterative
@@ -23,6 +25,7 @@
   - 
   - 
 **Blood Cell Analysis**
+[ImageAnalysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
 - An application for analyzing microscope images to detect and count blood cells using computer vision techniques.
 - Built with Java & JavaFX
 - Uses Union-Find algorithm for cell identification
