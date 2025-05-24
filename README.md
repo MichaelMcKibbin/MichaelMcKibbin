@@ -8,6 +8,16 @@
 
 
 ## 🚀 Featured Projects
+**Travel/Mapping App - Vienna U-Bahn**
+  - An application to plan a trip on the Vienna U-Bahn underground network
+  - Demonstrates the differences in various search algorithms
+  -- BFS: Breadth First Search
+  -- DFS: Depth First Search - Iterative
+  -- DFS: Depth First Search - Recursive
+  -- Dijkstra's Algorithm - Shortest Route / Least Cost
+  - 
+  - 
+  - 
 **Blood Cell Analysis**
 - An application for analyzing microscope images to detect and count blood cells using computer vision techniques.
 - Built with Java & JavaFX
@@ -15,8 +25,7 @@
 - Implements custom image processing filters
 
 ## Upcoming
-**Travel/Mapping App**
-  - An application to plan a trip between two stations on a train network
+
 
 <br>
 <br>
