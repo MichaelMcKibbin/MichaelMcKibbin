@@ -9,13 +9,17 @@
 
 ## 🚀 Featured Projects
 **Travel/Mapping App - Vienna U-Bahn**
-  - An application to plan a trip on the Vienna U-Bahn underground network
-  - Demonstrates the differences in various search algorithms
-  -- BFS: Breadth First Search
-  -- DFS: Depth First Search - Iterative
-  -- DFS: Depth First Search - Recursive
-  -- Dijkstra's Algorithm - Shortest Route / Least Cost
-  - 
+[Title](https://github.com/MichaelMcKibbin/ViennaUBahn)
+  - An application to plan and display a trip on the Vienna U-Bahn underground network
+  - Demonstrates the differences in various search algorithms some of which generate multiple possible routes.
+  - BFS: Breadth First Search
+  - DFS: Depth First Search - Iterative
+  - DFS: Depth First Search - Recursive
+  - Dijkstra's Algorithm - Shortest Route / Least Cost
+  - Allows adding of extra stops (waypoints) 
+  - Weighting based on cost, time, & distance
+  - Colour coded route map and route stations list
+  - Various metrics calculated including calculated distance between stations & euclidian distance, travel time, & processing time.
   - 
   - 
 **Blood Cell Analysis**
