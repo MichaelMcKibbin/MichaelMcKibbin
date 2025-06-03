@@ -1,7 +1,14 @@
-### Hi there 👋
+## 👋 About Me
 
+I'm **Michael McKibbin**, an IT professional with a background in telephony, networking, and programming. I'm currently completing a **BSc in Computer Science** with a focus on *cybersecurity* and *digital forensics*, and I'm certified as an **AWS Cloud Practitioner**.
+
+I enjoy learning new technologies and building practical, well-structured software. This GitHub showcases some of my academic and personal projects as I continue developing my skills in **software development**, **cloud computing**, and **cybersecurity**.
+
+
+## What's going on now?
+- 🔭 I'm currently working on a simple ticketing app.
+  
 ## Recent Activity
-- 🔭 Next Project: ??? 🌐
 - 🚋 Journey Planner - [Vienna U-Bahn](https://github.com/MichaelMcKibbin/ViennaUBahn)
 - 🔬 Image Analysis - [Blood Cell Analysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
 - 💍 Inventory Tracker - [Jewellery Store](https://github.com/MichaelMcKibbin/JS1)
