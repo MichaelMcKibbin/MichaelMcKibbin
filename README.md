@@ -45,7 +45,8 @@ Repo: [ImageAnalysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
 ---
 ## 📫 Connect
 <!-- Add your professional social links here -->
-https://www.linkedin.com/in/michaelkevinmckibbin/
+You can find me on [LinkedIn](https://linkedin.com/in/michaelkevinmckibbin) or check out my latest CV [here]([https://1drv.ms/w/s!AgGz9QoISlzzgdLvYys3RzOGzLgfUO4?e=pDBlAC]).
+
 
 ---
 ## 💼 Some Technical Skills
