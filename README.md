@@ -4,7 +4,9 @@ I'm **Michael McKibbin**, an IT professional with a background in telephony, net
 
 I enjoy learning new technologies and building practical, well-structured software. This GitHub showcases some of my academic and personal projects as I continue developing my skills in **software development**, **cloud computing**, and **cybersecurity**.
 
-📫 Connect: You can find me on [LinkedIn](https://linkedin.com/in/michaelkevinmckibbin) or check out my latest CV [here](https://1drv.ms/w/s!AgGz9QoISlzzgdLvYys3RzOGzLgfUO4)
+📫 Connect: 
+You can find me on [LinkedIn](https://linkedin.com/in/michaelkevinmckibbin) or check out my latest CV [here](https://1drv.ms/w/s!AgGz9QoISlzzgdLvYys3RzOGzLgfUO4)
+
 ---
 ## What's going on now?
 - 🔭 I'm currently working on a simple ticketing app.
