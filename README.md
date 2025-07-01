@@ -41,7 +41,8 @@ Repo: [ViennaUBahn](https://github.com/MichaelMcKibbin/ViennaUBahn)
   - Various metrics calculated including calculated distance between stations & euclidian distance, travel time, & processing time.
     
 ---
-**Blood Cell Analysis**
+<details>
+<summary><strong>**Blood Cell Analysis**</strong></summary>
 
 Repo: [ImageAnalysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
 - An application for analyzing microscope images to detect and count blood cells using computer vision techniques.
@@ -49,7 +50,7 @@ Repo: [ImageAnalysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
 - Uses Union-Find algorithm
 - Identifies cells by colour, shape, & size
 - Implements custom image processing filters
-
+</details>
 
 ---
 ## 🛠 Skills Overview
