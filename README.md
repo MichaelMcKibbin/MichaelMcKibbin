@@ -1,6 +1,11 @@
 ## 👋 About Me
 
-I'm **Michael McKibbin**, an IT professional with a background in telephony, networking, and programming. I'm currently completing a **BSc in Computer Science** with a focus on *cybersecurity* and *digital forensics*, and I'm certified as an **AWS Cloud Practitioner**.
+I'm **Michael McKibbin**, an IT professional with a background in telephony, networking, and programming. 
+👨‍🎓 I've recently completed a **BSc in Computer Science** with a focus on *cybersecurity* and *digital forensics* at [SETU](https://www.setu.ie/) , and I'm certified as an **AWS Cloud Practitioner** ☁.
+
+Currently working on Cisco Endpoint Security training at [Cisco Networking Academy](https://www.netacad.com/courses/endpoint-security?courseLang=en-US)
+
+I'll shortly begin a part-time **BSc (Hons) in Contemporary Software Development** at [ATU](https://www.atu.ie/)
 
 I enjoy learning new technologies and building practical, well-structured software. This GitHub showcases some of my academic and personal projects as I continue developing my skills in **software development**, **cloud computing**, and **cybersecurity**.
 
@@ -8,8 +13,10 @@ I enjoy learning new technologies and building practical, well-structured softwa
 You can find me on [LinkedIn](https://linkedin.com/in/michaelkevinmckibbin) or check out my latest CV [here](https://1drv.ms/w/s!AgGz9QoISlzzgdLwZaLU-4ENQW5Iuqk)
 
 ---
-## What's going on now?
-- 🔭 I'm currently working on a simple ticketing app.
+## What am I working on at the moment?
+- 🔭 I'm currently working on a simple ticketing app - just for fun.
+- 📊 Planning a full stack project to produce a simple regulatory reporting dashboard for a fictional financial services firm.
+
   
 ## Recent Activity
 - 🚋 Journey Planner - [Vienna U-Bahn](https://github.com/MichaelMcKibbin/ViennaUBahn)
@@ -17,7 +24,7 @@ You can find me on [LinkedIn](https://linkedin.com/in/michaelkevinmckibbin) or c
 - 💍 Inventory Tracker - [Jewellery Store](https://github.com/MichaelMcKibbin/JS1)
 
 ---
-## 🚀 Featured Projects
+## Featured Projects
 **Travel/Mapping App - Vienna U-Bahn**
 
 Repo: [ViennaUBahn](https://github.com/MichaelMcKibbin/ViennaUBahn)
@@ -44,238 +51,97 @@ Repo: [ImageAnalysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
 - Implements custom image processing filters
 
 
-
-
-
 ---
-## 💼 Some Technical Skills
+## 🛠 Skills Overview
 
-### 🔧 Languages & Tools
-- ☕ Java
-- 🐍 Python
-- 💻 JavaScript
-- 📜 HTML/CSS
-- 📊 SQL
-<!-- - 🟨 TypeScript -->
-<!--
-- 🔨 C++
--->
+<details>
+<summary><strong>Languages & Tools</strong></summary>
 
-### 📚 Frameworks & Libraries
-- 🎨 JavaFX
-- 👁️ OpenCV
-- ⚛️ React
-- 🟢 Node.js
+Java, Python, JavaScript, HTML/CSS, SQL
 
-### 🌐 Web Technologies
-- 🔄 REST APIs
-- 🎨 Bootstrap
-- 📱 Responsive Design
-- 🌐 HTTP/HTTPS
-- 🗃️ JSON/XML
+</details>
 
-### 🔐 Security
-- 🐧 Kali Linux
-- 🔍 Penetration Testing
-- 🛡️ Wireshark
-- 🔒 Cryptography
-- 🕵️ Nmap
-- 🦊 Metasploit
-- 🔑 Burp Suite
+<details>
+<summary><strong>Frameworks & Libraries</strong></summary>
 
-### ☁️ Cloud Platforms
-- ☁️ AWS
- <!--
-  - 🧮 EC2
-  - 🪣 S3
-  - 🗄️ RDS
-  - 🌐 Route 53 -->
+JavaFX, OpenCV, React, Node.js
 
-<!--
-- 🔷 Azure
-- 🌩️ Google Cloud
--->
+</details>
 
-<!--
-### ☁️ AWS Cloud Skills
+<details>
+<summary><strong>Web Technologies</strong></summary>
 
-#### 🖥️ Compute
-- 🧮 EC2
-- 🚀 Lambda
-- 📦 ECS
-- 🐳 ECR
+REST APIs, Bootstrap, Responsive Design, HTTP/HTTPS, JSON/XML
 
-#### 📦 Storage
-- 🪣 S3
-- 💾 EBS
-- 🗄️ Glacier
+</details>
 
-#### 🗃️ Databases
-- 🗄️ RDS
-- 🔄 DynamoDB
-- ⚡ ElastiCache
+<details>
+<summary><strong>Security</strong></summary>
 
-#### 🌐 Networking
-- 🌐 Route 53
-- ⚖️ ELB
-- 🌩️ CloudFront
-- 🔐 VPC
+Kali Linux, Penetration Testing, Wireshark, Cryptography, Nmap, Metasploit, Burp Suite
 
-#### 🔒 Security
-- 🔒 IAM
-- 🛡️ WAF
-- 🔑 Secrets Manager
-- 🛡️ Shield
+</details>
 
-#### 📊 Monitoring & Management
-- 🔍 CloudWatch
-- 🎯 CloudTrail
-- ⚙️ Systems Manager
-- 🏢 Organizations
+<details>
+<summary><strong>Cloud Platforms</strong></summary>
 
-#### 🚀 DevOps
-- 🔄 CodePipeline
-- 📝 CodeCommit
-- 🏗️ CodeBuild
-- 🚢 CodeDeploy
+AWS (EC2, S3, RDS, Route 53, IAM, Lambda, CloudWatch, etc.)
 
-#### 📨 Messaging
-- 📨 SQS
-- 📱 SNS
-- 📧 SES
+</details>
 
-#### 🤖 AI/ML
-- 🤖 SageMaker
-- 🔍 Rekognition
-- 🗣️ Polly
-- 🧠 Comprehend
--->
+<details>
+<summary><strong>Databases</strong></summary>
 
-### 🗄️ Databases
-- 🍃 MongoDB
-- 📊 MySQL
+MongoDB, MySQL
 
-### 📱 Mobile Development
-- 📱 Android Studio
-- 🤖 Android SDK
-- 📦 Gradle
-- 📱 Mobile UI/UX
+</details>
 
-### 🛠️ Tools & Platforms
-- 📝 Git
-- 🐙 GitHub
-- 💡 IntelliJ IDEA
-- 📝 VS Code
-- ⚡ Maven
+<details>
+<summary><strong>Mobile Development</strong></summary>
 
-### 💽 Legacy Operating Systems
-- 🖥️ MS-DOS / PC-DOS
-- 💻 Windows 3.0/3.1/3.11
-- 🖥️ Windows 95/98/ME
-- 🖥️ Windows NT/2000
-- 🖥️ Windows XP/7/8
-- 🐧 📀 Mandrake Linux
-- 🍎 Classic Mac OS
-- 🖥️ OS/2
-- 🗄️ Novell NetWare
+Android Studio, Android SDK, Gradle, Mobile UI/UX
 
-### 🏛️ Legacy Technologies
-- 📟 DOS/Batch Scripting
-- 🔵 Visual Basic
-- 🎮 BASIC/QBasic
-- 📊 VBA (Visual Basic for Applications)
-<!--
-- 🖥️ COBOL
-- 💾 Fortran
-- 📝 Pascal
--->
+</details>
 
-### 🌐 Networking Skills
+<details>
+<summary><strong>Development Tools</strong></summary>
 
-#### 🔧 Networking Protocols
-- 🌐 TCP/IP
-- 🔄 OSPF
-- 🛣️ BGP
-- 🔒 EIGRP
-- 🌍 IPv4/IPv6
-- 🔐 VLANs
-- 🔄 STP
-- 🔌 DHCP
-- 📝 DNS
+Git, GitHub, IntelliJ IDEA, VS Code, Maven
 
-#### 🛡️ Network Security
-- 🔒 ACLs (Access Control Lists)
-- 🛡️ Firewalls
-- 🔐 VPNs (IPSec/SSL)
-- 🕵️ IPS/IDS
-- 🛑 Port Security
-- 🔑 AAA (Authentication, Authorization, Accounting)
-- 🚫 NAT/PAT
+</details>
 
-#### 💻 Cisco Hardware
-- 🔄 Routers
-- 🔌 Switches
-- 📡 Wireless Controllers
-- 🛡️ Security Appliances
+<details>
+<summary><strong>Legacy Operating Systems</strong></summary>
 
-#### ⚙️ Network Services
-- 🔄 QoS (Quality of Service)
-- 📞 VoIP
-- 📡 WAN Technologies
-- 🔌 SDN (Software-Defined Networking)
-- ☁️ Cloud Networking
-- 🔐 Network Security Operations
-- 
-#### 🛠️ Network Management
-- 📊 SNMP
-- 🖥️ Console Management
+MS-DOS / PC-DOS, Windows 3.x / 9x / ME / NT / 2000 / XP / 7 / 8, Mandrake Linux, Classic Mac OS, OS/2, Novell NetWare
 
-#### 🔧 Troubleshooting Tools
-- 📍 Ping
-- 🛤️ Traceroute
-- 🔍 Wireshark
-- 📊 Network Analyzers
-- 🖥️ Cisco Show Commands
-- 🔄 Debug Commands
+</details>
 
-#### 💻 IT Skills
-- 🔧 Hardware Troubleshooting
-- 💾 Operating Systems
-- 🖥️ PC Components
-- 📱 Mobile Devices
-- 🌐 Networking
-- 🔨 System Configuration
-- 👥 User Support
-- 🛠️ Preventive Maintenance
+<details>
+<summary><strong>Legacy Technologies</strong></summary>
 
-### 📡 Cisco Certifications
-- 🎓 CCENT (Cisco Certified Entry Networking Technician)
+Batch Scripting, Visual Basic, BASIC/QBasic, VBA
 
-### 🎓 CompTIA Certifications & Skills
+</details>
 
-- 🛡️ Security+
-<!--
-- 🔒 Cryptography
-- 🛡️ Network Security
-- 🔐 Access Control
-- 🕵️ Security Assessments
-- 🚨 Incident Response
-- 🎯 Threat Management
-- 🔍 Vulnerability Scanning
-- 📜 Security Policies
--->
+<details>
+<summary><strong>Networking Skills</strong></summary>
 
-- 🌐 Network+
-<!--
-- 🔌 Network Architecture
-- 📡 Wireless Networks
-- 🛠️ Network Implementation
-- 🔍 Network Operations
-- 🛡️ Network Security
-- 🔧 Network Troubleshooting
-- 📊 Network Management
-- 🌍 Network Protocols
--->
+**Protocols:** TCP/IP, OSPF, BGP, EIGRP, IPv4/IPv6, VLANs, STP, DHCP, DNS  
+**Security:** ACLs, Firewalls, VPNs (IPSec/SSL), IPS/IDS, Port Security, AAA, NAT/PAT  
+**Cisco Hardware:** Routers, Switches, Wireless Controllers, Security Appliances  
+**Services:** QoS, VoIP, WAN, SDN, Cloud Networking, Security Operations  
+**Management:** SNMP, Console Access  
+**Troubleshooting Tools:** Ping, Traceroute, Wireshark, Network Analyzers, Cisco Show/Debug Commands
+
+</details>
+
+<details>
+<summary><strong>IT Skills</strong></summary>
+
+Hardware Troubleshooting, Operating Systems, PC Components, Mobile Devices, Networking, System Configuration, User Support, Preventive Maintenance
+
+</details>
 
 
 
