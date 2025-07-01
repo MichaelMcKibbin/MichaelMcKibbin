@@ -25,7 +25,8 @@ You can find me on [LinkedIn](https://linkedin.com/in/michaelkevinmckibbin) or c
 
 ---
 ## Featured Projects
-**Travel/Mapping App - Vienna U-Bahn**
+<details>
+<summary><strong>**Travel/Mapping App - Vienna U-Bahn**</strong></summary>
 
 Repo: [ViennaUBahn](https://github.com/MichaelMcKibbin/ViennaUBahn)
   - An application to plan and display a trip on the Vienna U-Bahn underground network
@@ -39,8 +40,8 @@ Repo: [ViennaUBahn](https://github.com/MichaelMcKibbin/ViennaUBahn)
   - Weighting based on cost, time, & distance
   - Colour coded route map and route stations list
   - Various metrics calculated including calculated distance between stations & euclidian distance, travel time, & processing time.
+</details>
     
----
 <details>
 <summary><strong>**Blood Cell Analysis**</strong></summary>
 
