@@ -10,7 +10,7 @@ I'll shortly begin a part-time **BSc (Hons) in Contemporary Software Development
 I enjoy learning new technologies and building practical, well-structured software. This GitHub showcases some of my academic and personal projects as I continue developing my skills in **software development**, **cloud computing**, and **cybersecurity**.
 
 📫 Connect: 
-You can find me on [LinkedIn](https://linkedin.com/in/michaelkevinmckibbin) or check out my latest CV [here](https://1drv.ms/w/s!AgGz9QoISlzzgdLwZaLU-4ENQW5Iuqk)
+You can find me on [LinkedIn](https://linkedin.com/in/michaelkevinmckibbin)
 
 ---
 ## What am I working on at the moment?
