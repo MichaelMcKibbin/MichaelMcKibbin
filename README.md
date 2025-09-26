@@ -1,49 +1,47 @@
 ## 👋 About Me
 
-I'm **Michael McKibbin**, an IT professional with a background in telephony, networking, and programming. 
+I'm an IT professional with a background in telephony, networking, and programming.
 👨‍🎓 I've recently completed a **BSc in Computer Science** with a focus on *cybersecurity* and *digital forensics* at [SETU](https://www.setu.ie/) , and I'm certified as an **AWS Cloud Practitioner** ☁.
 
-Currently working on Cisco Endpoint Security training at [Cisco Networking Academy](https://www.netacad.com/courses/endpoint-security?courseLang=en-US)
+Currently training on Cisco Endpoint Security at [Cisco Networking Academy](https://www.netacad.com/courses/endpoint-security?courseLang=en-US)
 
-I'll shortly begin a part-time **BSc (Hons) in Contemporary Software Development** at [ATU](https://www.atu.ie/)
+Recently began a part-time online **BSc (Hons) in Contemporary Software Development** at [ATU](https://www.atu.ie/)
 
 I enjoy learning new technologies and building practical, well-structured software. This GitHub showcases some of my academic and personal projects as I continue developing my skills in **software development**, **cloud computing**, and **cybersecurity**.
 
-📫 Connect: 
+📫 Connect:
 You can find me on [LinkedIn](https://linkedin.com/in/michaelkevinmckibbin)
 
 ---
-## What am I working on at the moment?
-- 🔭 I'm currently working on a simple ticketing app - just for fun.
-- 📊 Planning a full stack project to produce a simple regulatory reporting dashboard for a fictional financial services firm.
+## What projects am I working on at the moment?
+- Currently working on a simple ticketing app - just for fun in my spare time.
+- 
 
-  
-## Recent Activity
+
+## Some Featured Projects
 - 🚋 Journey Planner - [Vienna U-Bahn](https://github.com/MichaelMcKibbin/ViennaUBahn)
-- 🔬 Image Analysis - [Blood Cell Analysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
-- 💍 Inventory Tracker - [Jewellery Store](https://github.com/MichaelMcKibbin/JS1)
-
----
-## Featured Projects
 <details>
-<summary><strong>**Travel/Mapping App - Vienna U-Bahn**</strong></summary>
+<summary><strong>More details on Journey Planner App - Vienna U-Bahn</strong></summary>
 
 Repo: [ViennaUBahn](https://github.com/MichaelMcKibbin/ViennaUBahn)
-  - An application to plan and display a trip on the Vienna U-Bahn underground network
-  - Built with Java & JavaFX
-  - Demonstrates the differences in various search algorithms some of which generate multiple possible routes.
-  - BFS: Breadth First Search
-  - DFS: Depth First Search - Iterative
-  - DFS: Depth First Search - Recursive
-  - Dijkstra's Algorithm - Shortest Route / Least Cost
-  - Allows adding of extra stops (waypoints) 
-  - Weighting based on cost, time, & distance
-  - Colour coded route map and route stations list
-  - Various metrics calculated including calculated distance between stations & euclidian distance, travel time, & processing time.
+- An application to plan and display a trip on the Vienna U-Bahn underground network
+- Built with Java & JavaFX
+- Demonstrates the differences in various search algorithms some of which generate multiple possible routes.
+- BFS: Breadth First Search
+- DFS: Depth First Search - Iterative
+- DFS: Depth First Search - Recursive
+- Dijkstra's Algorithm - Shortest Route / Least Cost
+- Allows adding of extra stops (waypoints)
+- Weighting based on cost, time, & distance
+- Colour coded route map and route stations list
+- Various metrics calculated including calculated distance between stations & euclidian distance, travel time, & processing time.
 </details>
-    
+
+---
+- 🔬 Image Analysis - [Blood Cell Analysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
+
 <details>
-<summary><strong>**Blood Cell Analysis**</strong></summary>
+<summary><strong>More details on Blood Cell Analysis</strong></summary>
 
 Repo: [ImageAnalysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
 - An application for analyzing microscope images to detect and count blood cells using computer vision techniques.
@@ -54,12 +52,26 @@ Repo: [ImageAnalysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
 </details>
 
 ---
+- 💍 Inventory Tracker - [Jewellery Store](https://github.com/MichaelMcKibbin/JS1)
+<details>
+<summary><strong>More details on Jewellery Store Inventory App</strong></summary>
+
+Repo: [ImageAnalysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
+- An application for tracking inventory in a jewellery store.
+- Built with Java & JavaFX
+- Uses custom nested linked lists.
+- Various methods for searching and displaying inventory items are offered.
+</details>
+
+---
+
+---
 ## 🛠 Skills Overview
 
 <details>
 <summary><strong>Languages & Tools</strong></summary>
 
-Java, Python, JavaScript, HTML/CSS, SQL
+Java, Python, JavaScript, HTML/CSS, SQL, and more.
 
 </details>
 
