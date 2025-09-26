@@ -15,7 +15,7 @@ You can find me on [LinkedIn](https://linkedin.com/in/michaelkevinmckibbin)
 
 ---
 ## What am I working on in my spare time?
-- Currently building on a simple ticketing app - just for fun.
+- A simple ticketing app - just for fun.
 
 
 
