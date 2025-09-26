@@ -1,6 +1,7 @@
 ## 👋 About Me
 
 I'm an IT professional with a background in telephony, networking, and programming.
+
 👨‍🎓 I've recently completed a **BSc in Computer Science** with a focus on *cybersecurity* and *digital forensics* at [SETU](https://www.setu.ie/) , and I'm certified as an **AWS Cloud Practitioner** ☁.
 
 Currently training on Cisco Endpoint Security at [Cisco Networking Academy](https://www.netacad.com/courses/endpoint-security?courseLang=en-US)
@@ -13,9 +14,9 @@ I enjoy learning new technologies and building practical, well-structured softwa
 You can find me on [LinkedIn](https://linkedin.com/in/michaelkevinmckibbin)
 
 ---
-## What projects am I working on at the moment?
-- Currently working on a simple ticketing app - just for fun in my spare time.
-- 
+## What am I working on in my spare time?
+- Currently building on a simple ticketing app - just for fun.
+
 
 
 ## Some Featured Projects
