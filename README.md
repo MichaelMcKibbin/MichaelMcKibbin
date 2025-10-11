@@ -1,22 +1,17 @@
-## 👋 About Me
 
 I'm an IT professional with a background in telephony, networking, and programming.
 
+Currently taking a **BSc (Hons) in Contemporary Software Development** at [ATU](https://www.atu.ie/)
+
 👨‍🎓 I've recently completed a **BSc in Computer Science** with a focus on *cybersecurity* and *digital forensics* at [SETU](https://www.setu.ie/) , and I'm certified as an **AWS Cloud Practitioner** ☁.
 
-Currently training on Cisco Endpoint Security at [Cisco Networking Academy](https://www.netacad.com/courses/endpoint-security?courseLang=en-US)
-
-Recently began a part-time online **BSc (Hons) in Contemporary Software Development** at [ATU](https://www.atu.ie/)
-
-I enjoy learning new technologies and building practical, well-structured software. This GitHub showcases some of my academic and personal projects as I continue developing my skills in **software development**, **cloud computing**, and **cybersecurity**.
+This GitHub showcases some of my academic and personal projects.
+My main areas of interest are: **software development**, **cloud computing**, **devops**, and **cybersecurity**.
 
 📫 Connect:
 You can find me on [LinkedIn](https://linkedin.com/in/michaelkevinmckibbin)
 
 ---
-## What am I working on in my spare time?
-- A simple ticketing app - just for fun.
-
 
 
 ## Some Featured Projects
@@ -162,5 +157,5 @@ Hardware Troubleshooting, Operating Systems, PC Components, Mobile Devices, Netw
 
 
 <!--
-**MichaelMcKibbin/MichaelMcKibbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MichaelMcKibbin/MichaelMcKibbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 -->
