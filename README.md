@@ -1,10 +1,11 @@
 ## About Me
 
-I'm an IT professional with a background in telephony, networking, and programming.
+I'm an IT professional with a background in telecommunications and computing.
 
-Currently taking a **BSc (Hons) in Contemporary Software Development** at [ATU](https://www.atu.ie/)
+I'm, currently taking a **BSc (Hons) in Contemporary Software Development** at [ATU](https://www.atu.ie/)
 
-👨‍🎓 I've recently completed a **BSc in Computer Science** with a focus on *cybersecurity* and *digital forensics* at [SETU](https://www.setu.ie/) , and I'm certified as an **AWS Cloud Practitioner** ☁.
+I've recently completed a **BSc in Computer Science** with a focus on *cybersecurity* and *digital forensics* at [SETU](https://www.setu.ie/) 👨‍🎓
+
 
 This GitHub showcases some of my academic and personal projects.
 My main areas of interest are: **software development**, **cloud computing**, **devops**, and **cybersecurity**.
@@ -69,6 +70,8 @@ Repo: [ImageAnalysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
 <summary><strong>Languages & Tools</strong></summary>
 
 Java, Python, JavaScript, HTML/CSS, SQL, and more.
+Oracle Certified Associate Java SE Programmer 
+
 
 </details>
 
@@ -96,7 +99,9 @@ Kali Linux, Penetration Testing, Wireshark, Cryptography, Nmap, Metasploit, Burp
 <details>
 <summary><strong>Cloud Platforms</strong></summary>
 
-AWS (EC2, S3, RDS, Route 53, IAM, Lambda, CloudWatch, etc.)
+Certified **AWS Cloud Practitioner**
+
+EC2, S3, RDS, Route 53, IAM, Lambda, CloudWatch, Terraform, etc.
 
 </details>
 
