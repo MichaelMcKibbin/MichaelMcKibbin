@@ -10,14 +10,66 @@ I've recently completed a **BSc in Computer Science** with a focus on *cybersecu
 This GitHub showcases some of my academic and personal projects.
 My main areas of interest are: **software development**, **cloud computing**, **devops**, and **cybersecurity**.
 
-📫 Connect:
 You can find me on [LinkedIn](https://linkedin.com/in/michaelkevinmckibbin)
 
 ---
 
 
 ## Some Featured Projects
-- 🚋 Journey Planner - [Vienna U-Bahn](https://github.com/MichaelMcKibbin/ViennaUBahn)
+
+- CSV Parser - [CSV Parser](https://github.com/MichaelMcKibbin/CSVParser)
+<details>
+<summary><strong>More details on CSV Parser</strong></summary>
+Academic project demonstrating OOP design, algorithms, validation pipelines, and testing practices through a fully featured CSV Data Processor built in Java
+
+A modular, production-grade Java library for reading, parsing, validating, transforming, and writing CSV files with clean object-oriented design and comprehensive test coverage.
+
+Includes a command-line interface for easy use and testing.
+
+View the [README](https://github.com/MichaelMcKibbin/ATU-SoftDev-Grp5Project/blob/main/README.md) for more details.
+
+</details>
+
+---
+
+- puzzlepaddy.com - [Puzzlepaddy](https://github.com/MichaelMcKibbin/puzzlepaddy)
+<details>
+<summary><strong>More details on Puzzlepaddy</strong></summary>
+
+Repo: [puzzlepaddy](https://github.com/MichaelMcKibbin/puzzlepaddy)
+
+**A modern, server-rendered puzzle and games platform built with Next.js.**
+
+PuzzlePaddy.com is a Node.js-powered, server-side rendered (SSR) web application built with Next.js, React, and Tailwind CSS.
+It delivers fast, lightweight pages for puzzles and mini-games, with automatic deployments triggered via GitHub workflows.
+
+## Key Features
+
+- A growing collection of games and puzzles.
+
+- Server-Side Rendering (SSR) for fast load speeds and improved SEO.
+
+- Custom front-end UI designed with Tailwind CSS for clean, responsive layouts.
+
+- Node.js back-end via Next.js API routes for handling dynamic content.
+
+- Automated deployment pipeline using GitHub Actions.
+
+- Static export support for hosting on shared server infrastructure.
+
+- Fully version-controlled, CI-driven development workflow.
+
+## Tech Stack
+- Next.js (SSR, SSG, API routes)
+- React (components, state, hooks)
+- Tailwind CSS (styling)
+- Node.js (runtime)
+- GitHub Actions (CI/CD deployment pipeline)
+</details>
+
+---
+
+- Journey Planner - [Vienna U-Bahn](https://github.com/MichaelMcKibbin/ViennaUBahn)
 <details>
 <summary><strong>More details on Journey Planner App - Vienna U-Bahn</strong></summary>
 
@@ -36,7 +88,7 @@ Repo: [ViennaUBahn](https://github.com/MichaelMcKibbin/ViennaUBahn)
 </details>
 
 ---
-- 🔬 Image Analysis - [Blood Cell Analysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
+- Image Analysis - [Blood Cell Analysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
 
 <details>
 <summary><strong>More details on Blood Cell Analysis</strong></summary>
@@ -50,7 +102,7 @@ Repo: [ImageAnalysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
 </details>
 
 ---
-- 💍 Inventory Tracker - [Jewellery Store](https://github.com/MichaelMcKibbin/JS1)
+- Inventory Tracker - [Jewellery Store](https://github.com/MichaelMcKibbin/JS1)
 <details>
 <summary><strong>More details on Jewellery Store Inventory App</strong></summary>
 
@@ -64,7 +116,7 @@ Repo: [ImageAnalysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
 ---
 
 ---
-## 🛠 Skills Overview
+## Skills Overview
 
 <details>
 <summary><strong>Languages & Tools</strong></summary>
