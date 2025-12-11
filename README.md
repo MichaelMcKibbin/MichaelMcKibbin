@@ -17,7 +17,7 @@ You can find me on [LinkedIn](https://linkedin.com/in/michaelkevinmckibbin)
 
 ## Some Featured Projects
 
-- CSV Parser - [CSV Parser](https://github.com/MichaelMcKibbin/CSVParser)
+- CSV Parser - [CSV Parser](https://github.com/MichaelMcKibbin/ATU-SoftDev-Grp5Project)
 <details>
 <summary><strong>More details on CSV Parser</strong></summary>
 Academic project demonstrating OOP design, algorithms, validation pipelines, and testing practices through a fully featured CSV Data Processor built in Java
