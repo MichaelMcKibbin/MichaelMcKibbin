@@ -10,7 +10,7 @@ I've recently completed a **BSc in Computer Science** with a focus on *cybersecu
 This GitHub showcases some of my academic and personal projects.
 My main areas of interest are: **software development**, **cloud computing**, **devops**, and **cybersecurity**.
 
-You can find me on [LinkedIn](https://linkedin.com/in/michaelkevinmckibbin)
+You can find me on [LinkedIn](https://linkedin.com/in/michaelkevinmckibbin) or at [michaelmckibbin.com](https://michaelmckibbin.com)
 
 ---
 
