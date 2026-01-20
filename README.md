@@ -14,6 +14,10 @@ You can find me on [LinkedIn](https://linkedin.com/in/michaelkevinmckibbin) or a
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMcKibbin)](https://github.com/MichaelMcKibbin/github-readme-stats)
+
+---
+
 
 ## Some Featured Projects
 
