@@ -16,6 +16,9 @@ You can find me on [LinkedIn](https://linkedin.com/in/michaelkevinmckibbin) or a
 ## What's current?
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelMcKibbin&show_icons=true)
 
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelMcKibbin&show_icons=true&cache_seconds=21600)
+
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MichaelMcKibbin)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MichaelMcKibbin)
