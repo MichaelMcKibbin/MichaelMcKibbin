@@ -13,6 +13,42 @@ My main areas of interest are: **software development**, **cloud computing**, **
 You can find me on [LinkedIn](https://linkedin.com/in/michaelkevinmckibbin) or at [michaelmckibbin.com](https://michaelmckibbin.com)
 
 ---
+## What's current?
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelMcKibbin&show_icons=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MichaelMcKibbin)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MichaelMcKibbin)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMcKibbin&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMcKibbin&layout=compact&langs_count=8&hide=html,css)
+
+![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk&logoColor=white)
+
+![C%23](https://img.shields.io/badge/C%23-.NET-512BD4?logo=dotnet&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-F7DF1E?logo=javascript&logoColor=black)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)
+
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
+
+![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3-38B2AC?logo=tailwind-css&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-6DB33F?logo=springboot&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?logo=amazonaws&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=github-actions&logoColor=white)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=MichaelMcKibbin&theme=onedark)
+
+---
 
 ## Some Featured Projects
 
@@ -121,7 +157,7 @@ Repo: [ImageAnalysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
 <summary><strong>Languages & Tools</strong></summary>
 
 Java, Python, JavaScript, HTML/CSS, SQL, and more.
-Oracle Certified Associate Java SE Programmer 
+Oracle Certified Associate Java SE Programmer
 
 
 </details>
