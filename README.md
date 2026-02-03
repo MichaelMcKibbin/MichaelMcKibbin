@@ -16,11 +16,10 @@ Main areas of interest: **software development**, **cloud computing**, **devops*
 
 ---
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelMcKibbin&theme=github_dark)
-
-
 ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MichaelMcKibbin&theme=github_dark)
 ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MichaelMcKibbin&theme=github_dark) 
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelMcKibbin&theme=github_dark)
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MichaelMcKibbin&theme=github_dark)
 ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MichaelMcKibbin&theme=github_dark&utcOffset=0)
