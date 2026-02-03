@@ -1,55 +1,45 @@
-## About Me
+## About Michael
+An IT professional with a background in telecommunications and computing.
 
-I'm an IT professional with a background in telecommunications and computing.
+Currently taking a **BSc (Hons) in Contemporary Software Development** at [ATU](https://www.atu.ie/)
 
-I'm, currently taking a **BSc (Hons) in Contemporary Software Development** at [ATU](https://www.atu.ie/)
-
-I've recently completed a **BSc in Computer Science** with a focus on *cybersecurity* and *digital forensics* at [SETU](https://www.setu.ie/) 👨‍🎓
+Recently completed a **BSc in Computer Science** with a focus on *cybersecurity* and *digital forensics* at [SETU](https://www.setu.ie/) 👨‍🎓
 
 
-This GitHub showcases some of my academic and personal projects.
-My main areas of interest are: **software development**, **cloud computing**, **devops**, and **cybersecurity**.
-
-You can find me on [LinkedIn](https://linkedin.com/in/michaelkevinmckibbin) or at [michaelmckibbin.com](https://michaelmckibbin.com)
+Main areas of interest: **software development**, **cloud computing**, **devops**, and **cybersecurity**.
 
 ---
-## What's current?
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelMcKibbin&show_icons=true)
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelMcKibbin&show_icons=true&cache_seconds=21600)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20McKibbin-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/michaelkevinmckibbin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-michaelmckibbin.com-000000?logo=vercel&logoColor=white)](https://michaelmckibbin.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:michael@michaelmckibbin.com)
+
+---
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelMcKibbin&theme=github_dark)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MichaelMcKibbin)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MichaelMcKibbin&theme=github_dark)
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MichaelMcKibbin&theme=github_dark) 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MichaelMcKibbin)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MichaelMcKibbin&theme=github_dark)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MichaelMcKibbin&theme=github_dark&utcOffset=0)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMcKibbin&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMcKibbin&layout=compact&langs_count=8&hide=html,css)
 
 ![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk&logoColor=white)
-
 ![C%23](https://img.shields.io/badge/C%23-.NET-512BD4?logo=dotnet&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-F7DF1E?logo=javascript&logoColor=black)
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
-
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)
-
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3-38B2AC?logo=tailwind-css&logoColor=white)
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-6DB33F?logo=springboot&logoColor=white)
+<!-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-6DB33F?logo=springboot&logoColor=white) -->
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?logo=amazonaws&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white)
-
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=github-actions&logoColor=white)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=MichaelMcKibbin&theme=onedark)
+<!--![Docker](https://img.shields.io/badge/Docker-20.10.x-2496ED?logo=docker&logoColor=white)-->
 
 ---
 
