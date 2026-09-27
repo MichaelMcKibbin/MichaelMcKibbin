@@ -51,6 +51,8 @@ I enjoy building, testing and deploying software end-to-end, from application de
 ## Featured Projects  
 Visit [michaelmckibbin.com](https://michaelmckibbin.com/projects) for a full list of projects.  
 
+---
+
 ### SecFlo - Secure Workflow Management System  
 .NET 10 · Blazor · ASP.NET Core · PostgreSQL · Docker · GitHub Actions · GHCR
 
