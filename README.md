@@ -1,242 +1,174 @@
-## About Michael
-An IT professional with a background in telecommunications and computing.
+# Michael McKibbin
+Software Developer | Cloud | DevOps | Cybersecurity
 
-Currently taking a **BSc (Hons) in Contemporary Software Development** at [ATU](https://www.atu.ie/)
+Software developer with a strong background in IT and telecommunications, specialising in modern software development, cloud technologies, DevOps and cybersecurity.  
 
-Recently completed a **BSc in Computer Science** with a focus on *cybersecurity* and *digital forensics* at [SETU](https://www.setu.ie/) 👨‍🎓
+First-Class Honours graduate in Contemporary Software Development from ATU (2026), with an additional BSc in Computer Science specialising in Cybersecurity and Digital Forensics from SETU (2025).  
 
-
-Main areas of interest: **software development**, **cloud computing**, **devops**, and **cybersecurity**.
-
----
+I enjoy building, testing and deploying software end-to-end, from application design and development through automated testing, CI/CD, containerisation and cloud deployment.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael%20McKibbin-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/michaelkevinmckibbin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-michaelmckibbin.com-000000?logo=vercel&logoColor=white)](https://michaelmckibbin.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:michael@michaelmckibbin.com)
+[![Website](https://img.shields.io/badge/Website-michaelmckibbin.com-000000?logo=vercel&logoColor=white)](https://michaelmckibbin.com)
 
 ---
 
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MichaelMcKibbin&theme=github_dark&v=2)
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MichaelMcKibbin&theme=github_dark&v=2) 
-
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelMcKibbin&theme=github_dark&v=2)
-
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MichaelMcKibbin&theme=github_dark&v=2)
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MichaelMcKibbin&theme=github_dark&utcOffset=0&v=2)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MichaelMcKibbin&theme=github_dark)
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MichaelMcKibbin&theme=github_dark) 
 
 
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) 
+![C%23](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-.NET-512BD4?logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3-38B2AC?logo=tailwind-css&logoColor=white)
-<!-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-6DB33F?logo=springboot&logoColor=white) -->
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+
 ![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=github-actions&logoColor=white)
-<!--![Docker](https://img.shields.io/badge/Docker-20.10.x-2496ED?logo=docker&logoColor=white)-->
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?logo=github-actions&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
 ---
 
-## Some Featured Projects
+## Featured Projects
 
-- CSV Parser - [CSV Parser](https://github.com/MichaelMcKibbin/ATU-SoftDev-Grp5Project)
-<details>
-<summary><strong>More details on CSV Parser</strong></summary>
-Academic project demonstrating OOP design, algorithms, validation pipelines, and testing practices through a fully featured CSV Data Processor built in Java
+### SecFlo - Secure Workflow Management System  
+.NET 10 · Blazor · ASP.NET Core · PostgreSQL · Docker · GitHub Actions · GHCR
 
-A modular, production-grade Java library for reading, parsing, validating, transforming, and writing CSV files with clean object-oriented design and comprehensive test coverage.
+- Designed and developed a secure workflow management application with authentication and role-based access control.
+- Containerised the application and PostgreSQL database and deployed them to a Linux cloud environment.
+- Built an automated CI/CD workflow incorporating testing, container builds and deployment.
+- Created as a final year project as part of the BSc (Hons) in Contemporary Software Development at ATU.
 
-Includes a command-line interface for easy use and testing.
+View the [Project outline](https://michaelmckibbin.com/projects/secflo) and report for more details.  
+View the [project repo here](https://github.com/MichaelMcKibbin/secure-workflow-system).
+
+---
+### Great Irish Hotels (GIH) - Hotel Management Application
+.NET 10 · .NET MAUI · C# · SQLite · xUnit · MVVM
+
+A cross-platform hotel management system developed as a five-person team project for the BSc (Hons) in Contemporary Software Development at ATU.
+
+- The application manages the complete hotel guest lifecycle, including guest profiles, room reservations, billing and payments, refunds, housekeeping, maintenance requests, internal notifications, and customer self-service.
+- Built using **C#, .NET 10, .NET MAUI, XAML, SQLite, xUnit, and Moq**, with a layered **MVVM architecture**, dependency injection, repository and service patterns, and automated unit testing.
+- My contribution included software development, implementation, debugging, testing, integration, and collaboration within the shared Git codebase.
+
+View the [project repo](https://github.com/MichaelMcKibbin/HotelManagementSystem)  or the [README](https://github.com/MichaelMcKibbin/HotelManagementSystem/blob/master/README.md)  
+
+---
+
+### CSV Parser - CSV Data Processor  
+Java · OOP · Algorithms · Validation · Testing
+
+- Academic project demonstrating OOP design, algorithms, validation pipelines, and testing practices through a fully featured CSV Data Processor built in Java
+- A modular, production-grade Java library for reading, parsing, validating, transforming, and writing CSV files with clean object-oriented design and comprehensive test coverage.
+- Includes a command-line interface for easy use and testing.
 
 View the [README](https://github.com/MichaelMcKibbin/ATU-SoftDev-Grp5Project/blob/main/README.md) for more details.
 
-</details>
-
 ---
 
-- puzzlepaddy.com - [Puzzlepaddy](https://github.com/MichaelMcKibbin/puzzlepaddy)
-<details>
-<summary><strong>More details on Puzzlepaddy</strong></summary>
+### PuzzlePaddy - Puzzle and Games Platform  
+Next.js · React · Typescript · Tailwind CSS · Node.js · GitHub Actions
 
-Repo: [puzzlepaddy](https://github.com/MichaelMcKibbin/puzzlepaddy)
-
-**A modern, server-rendered puzzle and games platform built with Next.js.**
-
-PuzzlePaddy.com is a Node.js-powered, server-side rendered (SSR) web application built with Next.js, React, and Tailwind CSS.
-It delivers fast, lightweight pages for puzzles and mini-games, with automatic deployments triggered via GitHub workflows.
-
-## Key Features
+A puzzle and games platform built with Next.js, React, and Tailwind CSS.  
+Fast, lightweight pages for puzzles and mini-games, with automatic deployments triggered via GitHub workflows.
 
 - A growing collection of games and puzzles.
-
-- Server-Side Rendering (SSR) for fast load speeds and improved SEO.
-
-- Custom front-end UI designed with Tailwind CSS for clean, responsive layouts.
-
-- Node.js back-end via Next.js API routes for handling dynamic content.
-
+- Custom front-end UI designed with Tailwind CSS.
 - Automated deployment pipeline using GitHub Actions.
+- Version-controlled, CI-driven development workflow.
 
-- Static export support for hosting on shared server infrastructure.
-
-- Fully version-controlled, CI-driven development workflow.
-
-## Tech Stack
-- Next.js (SSR, SSG, API routes)
-- React (components, state, hooks)
-- Tailwind CSS (styling)
-- Node.js (runtime)
-- GitHub Actions (CI/CD deployment pipeline)
-</details>
+[Visit PuzzlePaddy](https://puzzlepaddy.com)
+[View project repo](https://github.com/MichaelMcKibbin/puzzlepaddy.com)
 
 ---
 
-- Journey Planner - [Vienna U-Bahn](https://github.com/MichaelMcKibbin/ViennaUBahn)
-<details>
-<summary><strong>More details on Journey Planner App - Vienna U-Bahn</strong></summary>
+### Journey Planner - Vienna U-Bahn
+Java · JavaFX · Graph Algorithms · BFS · DFS · Dijkstra's Algorithm  
 
-Repo: [ViennaUBahn](https://github.com/MichaelMcKibbin/ViennaUBahn)
-- An application to plan and display a trip on the Vienna U-Bahn underground network
-- Built with Java & JavaFX
-- Demonstrates the differences in various search algorithms some of which generate multiple possible routes.
-- BFS: Breadth First Search
-- DFS: Depth First Search - Iterative
-- DFS: Depth First Search - Recursive
-- Dijkstra's Algorithm - Shortest Route / Least Cost
-- Allows adding of extra stops (waypoints)
-- Weighting based on cost, time, & distance
-- Colour coded route map and route stations list
-- Various metrics calculated including calculated distance between stations & euclidian distance, travel time, & processing time.
-</details>
+View the [project repo](https://github.com/MichaelMcKibbin/ViennaUBahn)
+
+- Java/JavaFX journey-planning application demonstrating BFS, iterative and recursive DFS, and Dijkstra's shortest-path algorithm.
+- Supports waypoints and route weighting based on cost, time and distance.
+- Visualises calculated routes and reports distance, travel-time and algorithm-processing metrics.
 
 ---
-- Image Analysis - [Blood Cell Analysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
+### Image Analysis - Blood Cell Analysis  
+Java · JavaFX · Computer Vision · Union-Find Algorithm  
 
-<details>
-<summary><strong>More details on Blood Cell Analysis</strong></summary>
-
-Repo: [ImageAnalysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
 - An application for analyzing microscope images to detect and count blood cells using computer vision techniques.
 - Built with Java & JavaFX
 - Uses Union-Find algorithm
 - Identifies cells by colour, shape, & size
 - Implements custom image processing filters
-</details>
+
+[View project repo](https://github.com/MichaelMcKibbin/ImageAnalysis)
 
 ---
-- Inventory Tracker - [Jewellery Store](https://github.com/MichaelMcKibbin/JS1)
-<details>
-<summary><strong>More details on Jewellery Store Inventory App</strong></summary>
+### Jewellery Store Inventory Tracker 
+Java · JavaFX · Data Structures  
 
-Repo: [ImageAnalysis](https://github.com/MichaelMcKibbin/ImageAnalysis)
 - An application for tracking inventory in a jewellery store.
 - Built with Java & JavaFX
 - Uses custom nested linked lists.
 - Various methods for searching and displaying inventory items are offered.
-</details>
+
+[View project repo](https://github.com/MichaelMcKibbin/JS1)
 
 ---
 
 ---
-## Skills Overview
+## Technical Skills
 
-<details>
-<summary><strong>Languages & Tools</strong></summary>
+**Languages:** Java, C#, Python, JavaScript, TypeScript, SQL, Bash
 
-Java, Python, JavaScript, HTML/CSS, SQL, and more.
-Oracle Certified Associate Java SE Programmer
+**Web & Application Development:** .NET, ASP.NET Core, Blazor,
+React, Next.js, Node.js, REST APIs
 
+**Cloud & DevOps:** AWS, Docker, GitHub Actions, Terraform,
+CI/CD, Linux
 
-</details>
+**Data:** PostgreSQL, MySQL, MongoDB, SQLite
 
-<details>
-<summary><strong>Frameworks & Libraries</strong></summary>
+**Security & Networking:** Wireshark, Nmap, Kali Linux,
+TCP/IP, firewalls, VPNs, IDS/IPS
 
-JavaFX, OpenCV, React, Node.js
+**Additional experience:** 30+ years across IT, telecommunications, networking, hardware and technical support.
 
-</details>
+---
+## Certifications
 
-<details>
-<summary><strong>Web Technologies</strong></summary>
+- AWS Certified Cloud Practitioner
+- CompTIA Security+
+- CompTIA Network+
+- Oracle Certified Associate, Java SE 7 Programmer
+- Currently pursuing Certified Associate Python Programmer certification (PCAP)
 
-REST APIs, Bootstrap, Responsive Design, HTTP/HTTPS, JSON/XML
+---
+### GitHub Activity Summary
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelMcKibbin&theme=github_dark)
 
-</details>
-
-<details>
-<summary><strong>Security</strong></summary>
-
-Kali Linux, Penetration Testing, Wireshark, Cryptography, Nmap, Metasploit, Burp Suite
-
-</details>
-
-<details>
-<summary><strong>Cloud Platforms</strong></summary>
-
-Certified **AWS Cloud Practitioner**
-
-EC2, S3, RDS, Route 53, IAM, Lambda, CloudWatch, Terraform, etc.
-
-</details>
-
-<details>
-<summary><strong>Databases</strong></summary>
-
-MongoDB, MySQL
-
-</details>
-
-<details>
-<summary><strong>Mobile Development</strong></summary>
-
-Android Studio, Android SDK, Gradle, Mobile UI/UX
-
-</details>
-
-<details>
-<summary><strong>Development Tools</strong></summary>
-
-Git, GitHub, IntelliJ IDEA, VS Code, Maven
-
-</details>
-
-<details>
-<summary><strong>Legacy Operating Systems</strong></summary>
-
-MS-DOS / PC-DOS, Windows 3.x / 9x / ME / NT / 2000 / XP / 7 / 8, Mandrake Linux, Classic Mac OS, OS/2, Novell NetWare
-
-</details>
-
-<details>
-<summary><strong>Legacy Technologies</strong></summary>
-
-Batch Scripting, Visual Basic, BASIC/QBasic, VBA
-
-</details>
-
-<details>
-<summary><strong>Networking Skills</strong></summary>
-
-**Protocols:** TCP/IP, OSPF, BGP, EIGRP, IPv4/IPv6, VLANs, STP, DHCP, DNS  
-**Security:** ACLs, Firewalls, VPNs (IPSec/SSL), IPS/IDS, Port Security, AAA, NAT/PAT  
-**Cisco Hardware:** Routers, Switches, Wireless Controllers, Security Appliances  
-**Services:** QoS, VoIP, WAN, SDN, Cloud Networking, Security Operations  
-**Management:** SNMP, Console Access  
-**Troubleshooting Tools:** Ping, Traceroute, Wireshark, Network Analyzers, Cisco Show/Debug Commands
-
-</details>
-
-<details>
-<summary><strong>IT Skills</strong></summary>
-
-Hardware Troubleshooting, Operating Systems, PC Components, Mobile Devices, Networking, System Configuration, User Support, Preventive Maintenance
-
-</details>
-
-
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MichaelMcKibbin&theme=github_dark)
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MichaelMcKibbin&theme=github_dark&utcOffset=0)
 
 
 <!--
